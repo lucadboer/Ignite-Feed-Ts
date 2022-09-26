@@ -1,8 +1,8 @@
-# Ignite-Feed-Ts
+# Ignite Feed Rocketseat
 
 ![preview](./.github/preview.png)
 
-Projeto desenvolvido na trilha Ignite da Rocketseat com os fundamentos de ReactJS e TypeScript
+Primeiro projeto desenvolvido na trilha Ignite da Rocketseat com os fundamentos de ReactJS e TypeScript
 
 ## 🛠 Tecnologias
 
